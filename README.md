@@ -28,8 +28,8 @@ In order to run all of the examples, you should have the following:
 - _**For Advanced/VocaLocal**_ Foursquare Client ID & Client Secret [https://foursquare.com/developers/apps](https://foursquare.com/developers/apps)
 - _**Optional**_ git (≥ 1.7.12): [http://git-scm.com](http://git-scm.com)
 - _**Optional**_ GitHub account: [https://github.com](https://github.com)
-- Download/unpack or clone the [2012DevLabExamples repo from GitHub](https://github.com/mowens/2012DevLabExamples).
-	- For example, in Terminal on OS X: `git clone https://github.com/mowens/2012DevLabExamples.git`
+- Download/unpack or clone the [2012DevLabExamples repo from GitHub](https://github.com/attdevsupport/2012DevLabExamples).
+	- For example, in Terminal on OS X: `git clone https://github.com/attdevsupport/2012DevLabExamples.git`
 
 ### Miscellaneous
 
