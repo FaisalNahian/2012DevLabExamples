@@ -23,7 +23,7 @@ In order to run all of the examples, you should have the following:
 - _**For Sphero Only**_ Bluetooth Connection (confirmed to work on Windows 7/8 and OS X 10.6+)
 - _**For Sphero on Windows Only**_ Python 2.7.x [http://www.python.org/download/releases/2.7.3/](http://www.python.org/download/releases/2.7.3/)
 - _**For Sphero on Windows Only**_ Microsoft Visual Studio Express C++ Edition [http://microsoft.com/visualstudio/en-us/products/2010-editions/express](http://www.microsoft.com/visualstudio/en-us/products/2010-editions/express)
-- _**For Sphero on Windows Only **_ Requires 32-bit version of Node.js, available at: [http://nodejs.org/dist/v0.8.9/node-v0.8.9-x86.msi](http://nodejs.org/dist/v0.8.9/node-v0.8.9-x86.msi)
+- _**For Sphero on Windows Only**_ Requires 32-bit version of Node.js, available at: [http://nodejs.org/dist/v0.8.9/node-v0.8.9-x86.msi](http://nodejs.org/dist/v0.8.9/node-v0.8.9-x86.msi)
 - _**For Sphero on Mac Only**_ XCode Command-Line Developer Tools [https://developer.apple.com/xcode/](https://developer.apple.com/xcode/)
 - _**For Advanced/VocaLocal**_ Foursquare Developer Account [https://developer.foursquare.com/](https://developer.foursquare.com/)
 - _**For Advanced/VocaLocal**_ Foursquare Client ID & Client Secret [https://foursquare.com/developers/apps](https://foursquare.com/developers/apps)
