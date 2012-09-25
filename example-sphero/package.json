@@ -7,7 +7,7 @@
     "connect": ">= 2.4.2",
     "express": ">= 3.0.0rc1",
     "hbs": ">= 1.0.4",
-    "node-sphero": ">= 0.0.2",
+    "node-sphero": ">= 0.0.4",
     "optimist": ">= 0.3.4",
     "watson-js": ">= 0.1.0"
   },

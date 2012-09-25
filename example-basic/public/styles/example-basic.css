@@ -2,12 +2,20 @@ body {
 	padding-top: 40px;
 }
 
+#control_panel button,
+#control_panel .btn {
+	vertical-align: baseline;
+}
+
 #button-save {
 	width:84px;
 	height:38px;
 	position: relative;
 	margin-left: -1px;
 	z-index: 2;
+	padding: 0;
+	border: 0;
+	background: none;
 }
 
 #button-save .btn {

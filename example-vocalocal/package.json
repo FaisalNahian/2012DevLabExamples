@@ -7,10 +7,8 @@
     "connect": ">= 2.4.2",
     "express": ">= 3.0.0rc1",
     "hbs": ">= 1.0.4",
-    "node-foursquare-2": ">= 0.1.5",
+    "node-4sq": ">= 0.1.6",
     "optimist": ">= 0.3.4",
-    "passport": ">= 0.1.12",
-    "passport-foursquare": ">= 0.1.2",
     "watson-js": ">= 0.1.0"
   },
   "engines": {
